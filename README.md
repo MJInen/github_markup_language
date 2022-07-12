@@ -33,3 +33,7 @@ Things you may want to cover:
 <li>Line 1</li>
 <li>Line 2</li>
 </ul>
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
