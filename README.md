@@ -11,7 +11,7 @@ And tiny progress list.
 
 - [x] Lesson 1 - done
 - [x] Lesson 2 - done
-- [ ] Lesson 3 - in progress
+- [ ] Lesson 3 - in progress now
 - [ ] Lesson 4
 - [ ] Lesson 5
 - [ ] Lesson 6
