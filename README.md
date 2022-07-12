@@ -7,9 +7,10 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby
   > version 3.0.0
-
+* RoR
+  > version 7.0.3
 * System dependencies
 
 * Configuration
