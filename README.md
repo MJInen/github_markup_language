@@ -9,9 +9,9 @@ And tiny progress list.
 
 * Own work progress list
 
-- [x] Lesson 1
-- [x] Lesson 2
-- [ ] Lesson 3
+- [x] Lesson 1 - done
+- [x] Lesson 2 - done
+- [ ] Lesson 3 - in progress
 - [ ] Lesson 4
 - [ ] Lesson 5
 - [ ] Lesson 6
