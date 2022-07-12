@@ -7,9 +7,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby
+* Ruby\
   > version 3.0.0
-* RoR
+* RoR\
   > version 7.0.3
 * System dependencies
 
