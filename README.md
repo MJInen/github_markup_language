@@ -7,8 +7,8 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
-  <br/>  Ver.
+* Ruby version\
+  Ver.
 
 * System dependencies
 
