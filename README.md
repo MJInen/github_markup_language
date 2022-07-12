@@ -5,7 +5,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.\
 
-And tiny progress list.\
+And tiny progress list.
 
 * Own work progress list
 
