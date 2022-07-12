@@ -3,7 +3,20 @@
 
 ==============================================================\
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running. And progress list.\
+
+* Own work progress list
+
+- [x] Lesson 1
+- [x] Lesson 2
+- [ ] Lesson 3
+- [ ] Lesson 4
+- [ ] Lesson 5
+- [ ] Lesson 6
+- [ ] Lesson 7
+- [ ] Lesson 8
+- [ ] Lesson 9
+- [ ] Lesson 10
 
 Things you may want to cover:
 
@@ -34,6 +47,4 @@ Things you may want to cover:
 <li>Line 2</li>
 </ul>
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+
